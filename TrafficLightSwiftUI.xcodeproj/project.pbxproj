@@ -11,6 +11,8 @@
 		B7214B7628FF2ED000C854FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7214B7528FF2ED000C854FB /* ContentView.swift */; };
 		B7214B7828FF2ED100C854FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7214B7728FF2ED100C854FB /* Assets.xcassets */; };
 		B7214B7B28FF2ED100C854FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7214B7A28FF2ED100C854FB /* Preview Assets.xcassets */; };
+		B75E058C290072120053C115 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75E058B290072120053C115 /* ButtonView.swift */; };
+		B7A4824029001C08009437F3 /* CircleLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A4823F29001C08009437F3 /* CircleLight.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B7214B7528FF2ED000C854FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B7214B7728FF2ED100C854FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7214B7A28FF2ED100C854FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B75E058B290072120053C115 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		B7A4823F29001C08009437F3 /* CircleLight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLight.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				B7214B7328FF2ED000C854FB /* TrafficLightSwiftUIApp.swift */,
 				B7214B7528FF2ED000C854FB /* ContentView.swift */,
+				B7A4823F29001C08009437F3 /* CircleLight.swift */,
+				B75E058B290072120053C115 /* ButtonView.swift */,
 				B7214B7728FF2ED100C854FB /* Assets.xcassets */,
 				B7214B7928FF2ED100C854FB /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				B7214B7628FF2ED000C854FB /* ContentView.swift in Sources */,
 				B7214B7428FF2ED000C854FB /* TrafficLightSwiftUIApp.swift in Sources */,
+				B75E058C290072120053C115 /* ButtonView.swift in Sources */,
+				B7A4824029001C08009437F3 /* CircleLight.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
